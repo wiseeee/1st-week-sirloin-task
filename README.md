@@ -1,5 +1,5 @@
 
-<h1 align="middle">[과제] 설로인</h1>
+<h1 align="middle">admin 페이지 제작</h1>
 
 # 🔗 배포
 
